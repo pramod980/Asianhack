@@ -168,7 +168,7 @@ body{
     <nav class="navbar"position="fixed" style="background-color:cadetblue;height: 60px;" >
         <div class="container-fluid" style="color: aqua;" >
           <div class="navbar-header">
-            <a class="navbar-brand" href="home.html" style="font-size: 30px;font-family: Georgia, 'Times New Roman', Times, serif;margin-left: 5px;">THE DECODERS</a>
+            <a class="navbar-brand" href="home.php" style="font-size: 30px;font-family: Georgia, 'Times New Roman', Times, serif;margin-left: 5px;">THE DECODERS</a>
           </div>
           <ul class="nav navbar-nav" style="margin-left: 50px;display: flex; font-size: 20px;">
             <li><a href="home.php">Home</a></li>
